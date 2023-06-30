@@ -1,0 +1,22 @@
+{
+	"name": "unocss-repro",
+	"version": "0.0.1",
+	"type": "module",
+	"scripts": {
+		"build": "vite build",
+		"dev": "vite dev",
+		"i18n": "typesafe-i18n",
+		"preview": "vite preview"
+	},
+	"devDependencies": {
+		"@sveltejs/adapter-node": "^1.2.4",
+		"@sveltejs/kit": "^1.21.0",
+		"@unocss/reset": "^0.53.4",
+		"@unocss/svelte-scoped": "^0.53.4",
+		"sass": "^1.63.6",
+		"svelte": "^4.0.1",
+		"typesafe-i18n": "^5.24.3",
+		"unocss": "^0.53.4",
+		"vite": "^4.3.9"
+	}
+}
